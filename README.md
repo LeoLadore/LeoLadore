@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Ich mache gerne Sachen am PC und mache gerne Sport
+
 <!--
 **LeoLadore/LeoLadore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
